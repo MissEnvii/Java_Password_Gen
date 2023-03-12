@@ -56,6 +56,13 @@ THEN the password is either displayed in an alert or written to the page
 
 ![JSFunction updating](Assets/IMG/Event%20listener.jpg)
 
+# What I made!
+
+![end results](Assets/IMG/GITEndResults.gif)
+
+
+
+
 
 
 
