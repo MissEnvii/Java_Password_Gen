@@ -27,7 +27,38 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 # My process!
-**So Since my goal was to make the process on making a password a bit easier I wanted to add a section that will show when you press the generate password button. But in order for me to do that I need to add a few things to my HTML and CSS files. My first goal was to make sure I made an easy interafce with the HTML File. Here I added a section where you can choose how manny chartures you want in your password and check mark what you want to add to your password.**
+**So Since my goal was to make the process on making a password a bit easier I wanted to add a section that will show when you press the generate password button. But in order for me to do that I need to add a few things to my HTML and CSS files. My first goal was to make sure I made an easy interafce with the HTML File. Here I added a section where you can choose how manny charectures you want in your password and check mark what you want to add to your password.**
+
+![getting started](assets/IMG/HTML%20wtih%20added%20stuff.jpg)
+
+**After adding to the HTML i went ahead and updated the CSS**
+
+![gettings started](assets/IMG/CSS%20upadated%20.jpg)
+
+**After adding all that this is what we have**
+![getting started](Assets/IMG/Showing%20the%20Extra%20section.jpg)
+
+**Also by adding #promts display to none in CSS we Put in our javascript a section that will allow up to display the section when you hit the button like in the gif below.** 
+
+![Gif](assets/IMG/Showing%20teh%20section.gif)
+
+***added to JS to help pop the prompt up***
+![sectionForPromt](assets/IMG/show%20Prompt.jpg)
+
+
+**Next we started adding the function to our Javascript files**
+![JSFunction](Assets/IMG/JS_password%20Function.jpg)
+![JSFucntion the PW](assets/IMG/funaction%20for%20the%20password.jpg)
+
+**Then a section that will help with the password lenght, and if nothing is selected we will have it send back the phrase please select an option, on top of that we want a random scramlbe of the password to show up when playing with the settings**
+
+![JSFucntion the PW](assets/IMG/JS_funcation_PW.jpg)
+
+**Then when messing with the settings we want the HTML to display the current password lenght with what corrispondes to would you choose in the settings**
+
+![JSFunction updating](assets/IMG/Event%20listener.jpg)
+
+
 
 
 
