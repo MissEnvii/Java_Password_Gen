@@ -61,7 +61,7 @@ passwordLengthInput.oninput = function() {
   passwordLengthValue.innerHTML = this.value;
 }
 
-// Get the generate button and assign an event listener of click on it.
+// Get the generate button and assign an event listener if click on it.
 var generateBtn = document.querySelector("#generate");
 generateBtn.addEventListener("click", showPrompts);
 
