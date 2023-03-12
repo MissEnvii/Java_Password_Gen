@@ -28,11 +28,9 @@ THEN the password is either displayed in an alert or written to the page
 
 # My process!
 **So Since my goal was to make the process on making a password a bit easier I wanted to add a section that will show when you press the generate password button. But in order for me to do that I need to add a few things to my HTML and CSS files. My first goal was to make sure I made an easy interafce with the HTML File. Here I added a section where you can choose how manny charectures you want in your password and check mark what you want to add to your password.**
-
 ![getting started](assets/IMG/HTML%20wtih%20added%20stuff.jpg)
 
 **After adding to the HTML i went ahead and updated the CSS**
-
 ![getting started](assets/IMG/CSS%20upadated%20.jpg)
 
 **After adding all that this is what we have**
