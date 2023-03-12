@@ -52,7 +52,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ![JSFucntion the PW](Assets/IMG/JS_funcation_PW.jpg)
 
-**Then when messing with the settings we want the HTML to display the current password lenght with what corrispondes to would you choose in the settings**
+**Then when messing with the settings we want the HTML to display the current password lenght with what corrispondes to what you choose in the settings**
 
 ![JSFunction updating](Assets/IMG/Event%20listener.jpg)
 
