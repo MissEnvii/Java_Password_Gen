@@ -33,7 +33,7 @@ THEN the password is either displayed in an alert or written to the page
 
 **After adding to the HTML i went ahead and updated the CSS**
 
-![gettings started](assets/IMG/CSS%20upadated%20.jpg)
+![getting started](assets/IMG/CSS%20upadated%20.jpg)
 
 **After adding all that this is what we have**
 ![getting started](Assets/IMG/Showing%20the%20Extra%20section.jpg)
